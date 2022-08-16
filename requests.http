@@ -4,3 +4,7 @@ GET http://localhost:3000/news?search=ruby
 ###
 
 GET http://localhost:3000/users
+
+###
+
+GET http://localhost:3000/users/2
